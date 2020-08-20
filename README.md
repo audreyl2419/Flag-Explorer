@@ -1,4 +1,5 @@
 # Flag-Explorer
+*front end design (CSS-related) were mostly adopted from template provided by W3School.
 
 Two .jsp file:
 	-prompt.jsp: the welcome view. It will prompt for input of an country of choice.
